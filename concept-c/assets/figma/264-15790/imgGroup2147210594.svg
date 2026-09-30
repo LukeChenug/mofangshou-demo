@@ -1,0 +1,26 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="201.625" height="201.625" viewBox="0 0 201.625 201.625" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 2147210594">
+<foreignObject x="-283.905" y="-298.101" width="769.436" height="769.436"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(177.44px);clip-path:url(#bgblur_0_0_204_clip_path);height:100%;width:100%"></div></foreignObject><g id="Ellipse 2" filter="url(#filter0_d_0_204)" data-figma-bg-blur-radius="354.882">
+<circle cx="100.813" cy="86.6175" r="29.8364" fill="white" fill-opacity="0.5" shape-rendering="crispEdges"/>
+</g>
+<circle id="Ellipse 1" cx="100.813" cy="86.6176" r="23.3499" fill="url(#paint0_linear_0_204)"/>
+</g>
+<defs>
+<filter id="filter0_d_0_204" x="-283.905" y="-298.101" width="769.436" height="769.436" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="14.1953"/>
+<feGaussianBlur stdDeviation="35.4882"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.02 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_204"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_204" result="shape"/>
+</filter>
+<clipPath id="bgblur_0_0_204_clip_path" transform="translate(283.905 298.101)"><circle cx="100.813" cy="86.6175" r="29.8364"/>
+</clipPath><linearGradient id="paint0_linear_0_204" x1="77.4628" y1="86.6176" x2="124.163" y2="86.6176" gradientUnits="userSpaceOnUse">
+<stop stop-color="#AF883B"/>
+<stop offset="0.589308" stop-color="#CA8750"/>
+<stop offset="1" stop-color="#BC8249"/>
+</linearGradient>
+</defs>
+</svg>
